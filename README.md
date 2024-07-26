@@ -15,6 +15,7 @@ Datasets
 Popular and Liked Genres
 Personalized Movie Recommendations
 Best and Worst Rated Genres
+
 Installation
 bash
 Copy code
