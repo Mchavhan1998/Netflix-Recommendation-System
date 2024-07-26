@@ -28,7 +28,7 @@ The dataset used in this project is sourced from Netflix and includes informatio
 - User preferences
 - Other relevant features
 
-## Technologies Used
+## src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" Technologies Used
 
 - **Python**: For data analysis, model building, and visualization.
 - **Pandas**: For data manipulation and cleaning.
