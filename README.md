@@ -28,7 +28,7 @@ The dataset used in this project is sourced from Netflix and includes informatio
 - User preferences
 - Other relevant features
 
-## https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue Technologies Used
+##  Technologies Used
 
 - **Python**: For data analysis, model building, and visualization.
 - **Pandas**: For data manipulation and cleaning.
