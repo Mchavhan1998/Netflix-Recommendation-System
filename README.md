@@ -18,7 +18,7 @@ The main objectives of this project are:
 - **Model Evaluation**: Assess the performance of the models using appropriate metrics and refine them for better accuracy.
 - **Visualization**: Create visualizations to showcase the insights and results of the analysis.
 
-## Dataset
+## 📄 Dataset
 
 The dataset used in this project is sourced from Netflix and includes information on various aspects of movie viewing, such as:
 - Movie titles
