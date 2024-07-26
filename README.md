@@ -3,6 +3,10 @@
 # Netflix Data Analysis and Recommendations
 
 This project focuses on analyzing the Netflix dataset to gain insights into viewing patterns and build recommendation models. The dataset includes various features such as movie titles, genres, ratings, and user preferences. The goal is to explore the data, develop predictive models, and provide recommendations.
+This project using machine learning techniques, specifically Singular Value Decomposition (SVD), for collaborative filtering.
+
+🛠 Skills
+Python, Machine Learning, Data Visualization (AutoViz), SVD
 
 ## Project Overview
 
