@@ -30,7 +30,7 @@ The dataset used in this project is sourced from Netflix and includes informatio
 - **Pandas**: For data manipulation and cleaning.
 - **NumPy**: For numerical operations.
 - **Scikit-learn**: For building and evaluating machine learning models.
-- **Matplotlib/Seaborn**: For creating visualizations.
+- **Matplotlib/Seaborn/AutoViz**: For creating visualizations.
 - **Jupyter Notebook**: For interactive data analysis and visualization.
 
 ## How to Use
