@@ -8,7 +8,7 @@ This project using machine learning techniques, specifically Singular Value Deco
 # 🛠 Skills
 Python, Machine Learning, Data Visualization (AutoViz), SVD
 
-## Project Overview
+## 🔭 Project Overview
 
 The main objectives of this project are:
 - **Data Exploration**: Understand the structure and distribution of the data, and identify key features that influence viewing habits.
